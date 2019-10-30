@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Dit is een nieuwe tekst
+          Dit staat op de feature branch
         </a>
       </header>
     </div>
